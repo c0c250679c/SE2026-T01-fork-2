@@ -10,4 +10,4 @@ def hello_name():
 
 @app.route("/membername")
 def hello_name():
-    return f"櫻井惣元"
+    return f"櫻井惣元""星野智紀"
